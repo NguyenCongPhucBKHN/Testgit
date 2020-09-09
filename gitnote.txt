@@ -1,0 +1,6 @@
+1. Trong thư mục muốn đưa lên git tạo git init
+2. Tạo repository trên trong git
+4. git add <filename>/.(. là tất cả thư mục)
+5. git commit -m message
+6. Tạo remote trong thư mục muốn up: git remote add origin https://github.com/yourusername/your-repo-name.git
+7. git push origin master
